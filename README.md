@@ -3,7 +3,7 @@ README.md
 ## Descrição
 
 - Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas: Full-Stack e Mobile.
-- Projeto (Fase 2) da disciplina de Lógica e Programação de Computadores pela instituição PUCRS.
+- Projeto (Fases 1 e 2) da disciplina de Lógica e Programação de Computadores pela instituição PUCRS.
 - Autor: Vitor Madalosso (https://github.com/vmadalosso)
 
 ## Funcionalidades
